@@ -1,6 +1,6 @@
 # A.I.D.D. 2021
 
-![AIDD](https://user-images.githubusercontent.com/66545973/224919088-8b01a303-e4aa-4935-8518-e80d8949ca2a.jpeg)
+![AIDD](https://user-images.githubusercontent.com/66545973/224919229-d609e078-2b5a-4cf7-b50b-c346925e71b3.jpeg)
 
 A.I.D.D. 2021
 2021 Artificial Intelligence Diabetes Datathon
